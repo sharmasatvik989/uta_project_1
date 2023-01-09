@@ -1,5 +1,7 @@
 
 from random import randint
+import requests
+
 
 
 wordsize = 31  # everything is a word
